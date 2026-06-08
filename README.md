@@ -1,5 +1,10 @@
-## Hi there 👋
+Vanakkam! 👋 I'm Gugaan P🚀 
 
+Electronics & Communication Engineering Student | Innovator | Tech Enthusiast.
+
+I am an Electronics and Communication Engineering student at Vellore Institute of Technology (VIT), Chennai.
+I have a deep interest in how technology translates into real-world solutions. I am especially drawn to emerging fields like embedded systems, sensors, and communication systems, and I enjoy understanding the engineering behind innovative electronic applications across industries.
+As a curious and self-driven learner, I actively seek out new skills, thrive in collaborative environments, and look for projects that stretch me both technically and creatively
 <!--
 **Gugaan1297/Gugaan1297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
