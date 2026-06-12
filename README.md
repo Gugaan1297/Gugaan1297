@@ -1,6 +1,6 @@
 Vanakkam! 👋 I'm Gugaan P🚀 
 
-Electronics & Communication Engineering Student | Innovator | Tech Enthusiast.
+Electronics & Communication Engineering Student | Tech Enthusiast.
 
 I am an Electronics and Communication Engineering student at Vellore Institute of Technology (VIT), Chennai.
 I have a deep interest in how technology translates into real-world solutions. I am especially drawn to emerging fields like embedded systems, sensors, and communication systems, and I enjoy understanding the engineering behind innovative electronic applications across industries.
